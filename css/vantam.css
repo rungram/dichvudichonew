@@ -1,0 +1,28 @@
+.logo {
+    float: left;
+    width: 29%;
+}
+.menu-header {
+    padding-top: 20px;
+}
+
+.nav-top-menu {
+    background: #65cc03 !important;
+    margin-bottom: 6px;
+}
+
+.header, #home-slider {
+    background: #494949 !important;
+}
+
+.product-list li .left-block a {
+    display: block;
+    overflow: hidden;
+    max-height: 200px !important;
+}
+.thumbnail a>img, .thumbnail>img {
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+    max-height: 200px !important;
+}
